@@ -18,9 +18,6 @@ Currently, two official plugins are available:
     React-router 🚏
   </li>
   <li>
-    ReduxToolkit 
-  </li>
-  <li>
     Tailwind CSS 💨
   </li>
 </ul>
