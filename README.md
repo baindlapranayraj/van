@@ -25,4 +25,5 @@ Currently, two official plugins are available:
 <p>Main Agenda for creating this project to practice and deep dive into React Router.</br>Learned aboute deep nesting in react router and about new feauteres of React router</p>
 
 <h1>Deployed in netlify:</h1>
-<a href="https://fanciful-syrniki-220875.netlify.app/">Van-Life</a>
+<h2>Check out live hear</h2>
+<p>https://scintillating-gelato-2a7737.netlify.app/</p>
